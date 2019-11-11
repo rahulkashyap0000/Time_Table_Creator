@@ -1,0 +1,66 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+160010007.py	../160010007.py	1;"	kind:file	line:1
+Batch	../160010007.py	/^			Batch =   proposition[proposition.find(')')+1: proposition.find('\/')]$/;"	kind:variable	line:253
+Course	../160010007.py	/^			Course = proposition[:proposition.find('_')] $/;"	kind:variable	line:251
+Instructors	../160010007.py	/^			Instructors = proposition[proposition.find('(')+1 : proposition.find('+)')]$/;"	kind:variable	line:252
+Not_list	../160010007.py	/^			Not_list = []$/;"	kind:variable	line:127
+Not_list	../160010007.py	/^	Not_list = []$/;"	kind:variable	line:116
+and_list	../160010007.py	/^					and_list = []$/;"	kind:variable	line:167
+and_list	../160010007.py	/^					and_list = []$/;"	kind:variable	line:197
+and_list	../160010007.py	/^					and_list = []$/;"	kind:variable	line:228
+and_list	../160010007.py	/^				and_list = []$/;"	kind:variable	line:160
+and_list	../160010007.py	/^				and_list = []$/;"	kind:variable	line:190
+and_list	../160010007.py	/^				and_list = []$/;"	kind:variable	line:221
+batch_list	../160010007.py	/^batch_list = set()$/;"	kind:variable	line:131
+c_list	../160010007.py	/^		c_list = []$/;"	kind:variable	line:129
+c_list	../160010007.py	/^	c_list = []$/;"	kind:variable	line:117
+const_list	../160010007.py	/^				const_list = []$/;"	kind:variable	line:169
+const_list	../160010007.py	/^				const_list = []$/;"	kind:variable	line:199
+const_list	../160010007.py	/^				const_list = []$/;"	kind:variable	line:230
+const_list	../160010007.py	/^		const_list = []$/;"	kind:variable	line:146
+const_list	../160010007.py	/^		const_list = []$/;"	kind:variable	line:176
+const_list	../160010007.py	/^		const_list = []$/;"	kind:variable	line:207
+day	../160010007.py	/^			day = proposition[proposition.find('\/')+1:proposition.find('@')]$/;"	kind:variable	line:247
+days	../160010007.py	/^days = ['Monday','Tuesday','Wednesday','Thursday','Friday']$/;"	kind:variable	line:111
+dummy_propositions	../160010007.py	/^dummy_propositions = propositions$/;"	kind:variable	line:143
+dummy_propositions	../160010007.py	/^dummy_propositions = propositions$/;"	kind:variable	line:173
+dummy_propositions	../160010007.py	/^dummy_propositions = propositions$/;"	kind:variable	line:204
+end_time	../160010007.py	/^							end_time = proposition[proposition.find("-")+1:]$/;"	kind:variable	line:154
+end_time	../160010007.py	/^							end_time = proposition[proposition.find("-")+1:]$/;"	kind:variable	line:184
+end_time	../160010007.py	/^							end_time = proposition[proposition.find("-")+1:]$/;"	kind:variable	line:215
+end_time	../160010007.py	/^			end_time = proposition[proposition.find("-")+1:]$/;"	kind:variable	line:250
+end_time_new	../160010007.py	/^							end_time_new = other_proposition[other_proposition.find("-")+1:]$/;"	kind:variable	line:156
+end_time_new	../160010007.py	/^							end_time_new = other_proposition[other_proposition.find("-")+1:]$/;"	kind:variable	line:186
+end_time_new	../160010007.py	/^							end_time_new = other_proposition[other_proposition.find("-")+1:]$/;"	kind:variable	line:217
+get_next	../160010007.py	/^def get_next(str_):$/;"	kind:function	line:8
+get_time_slots	../160010007.py	/^def get_time_slots():$/;"	kind:function	line:19
+greater	../160010007.py	/^def greater(x,y):$/;"	kind:function	line:90
+inp	../160010007.py	/^	inp = json.load(f)$/;"	kind:variable	line:5
+lesser	../160010007.py	/^def lesser(x,y):$/;"	kind:function	line:78
+m	../160010007.py	/^	m = s.model()$/;"	kind:variable	line:241
+make_room_dict	../160010007.py	/^def make_room_dict():$/;"	kind:function	line:34
+make_string_course_insrt	../160010007.py	/^def make_string_course_insrt():$/;"	kind:function	line:53
+or_list	../160010007.py	/^				or_list=[]$/;"	kind:variable	line:159
+or_list	../160010007.py	/^				or_list=[]$/;"	kind:variable	line:189
+or_list	../160010007.py	/^				or_list=[]$/;"	kind:variable	line:220
+prof_list	../160010007.py	/^prof_list = set()$/;"	kind:variable	line:132
+proposition	../160010007.py	/^			proposition = str(proposition)$/;"	kind:variable	line:246
+propositions	../160010007.py	/^propositions = make_string_course_insrt()$/;"	kind:variable	line:101
+room	../160010007.py	/^			room = proposition[proposition.find('_')+1:proposition.find('*')]$/;"	kind:variable	line:248
+s	../160010007.py	/^s = Solver()$/;"	kind:variable	line:104
+slot_generator	../160010007.py	/^def slot_generator(x):$/;"	kind:function	line:45
+strt_time	../160010007.py	/^							strt_time = proposition[proposition.find("@")+1:proposition.find("-")]$/;"	kind:variable	line:153
+strt_time	../160010007.py	/^							strt_time = proposition[proposition.find("@")+1:proposition.find("-")]$/;"	kind:variable	line:183
+strt_time	../160010007.py	/^							strt_time = proposition[proposition.find("@")+1:proposition.find("-")]$/;"	kind:variable	line:214
+strt_time	../160010007.py	/^			strt_time = proposition[proposition.find("@")+1:proposition.find("-")]$/;"	kind:variable	line:249
+strt_time_new	../160010007.py	/^							strt_time_new = other_proposition[other_proposition.find("@")+1:other_proposition.find("-")]$/;"	kind:variable	line:155
+strt_time_new	../160010007.py	/^							strt_time_new = other_proposition[other_proposition.find("@")+1:other_proposition.find("-")]$/;"	kind:variable	line:185
+strt_time_new	../160010007.py	/^							strt_time_new = other_proposition[other_proposition.find("@")+1:other_proposition.find("-")]$/;"	kind:variable	line:216
+time_table	../160010007.py	/^time_table = {}$/;"	kind:variable	line:239
+writer	../160010007.py	/^				writer = csv.writer(csv_file)$/;"	kind:variable	line:268
+writer	../160010007.py	/^    writer = csv.writer(csv_file)$/;"	kind:variable	line:236

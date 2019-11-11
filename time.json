@@ -1,0 +1,28 @@
+{
+	"Room Types": ["small", "big", "chemistry", "physics"],
+	"Institute time": [
+		[8.50, 12.50],
+		[14.00, 17.00]
+	],
+	"Classrooms": [
+		["T1", "small"],
+		["LH1", "big"],
+		["physics_lab", "physics"],
+		["T2", "small"],
+		["LH2", "big"]
+	],
+	"Courses": [
+    	["cs101", "physics", [3],
+			["Biswas"], "all btech 16"
+		],
+		["cs201", "small", [1.5, 1.5],
+			["Amal", "Clint"], "cs btech 18"
+		],
+		["cs25", "big", [1, 1, 1],
+			["Sharad"], "ee mtech 19"
+		],
+		["cs228", "small", [1, 1, 1],
+			["Sreejith"], "cs mtech 18"
+		]
+	]
+}
